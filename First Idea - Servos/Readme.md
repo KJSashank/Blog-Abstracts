@@ -1,10 +1,10 @@
 # Servos - Position control motors!
 ## Table of contents
-* [Introduction](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L9-L10)
-* [Working](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L11-L16)
-* [Feedback mechanism](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L17-L18)
-* [Oscillations](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L19-L20)
-* [Servo Jitters!](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L21-L25)
+* [Introduction](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L9)
+* [Working](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L11)
+* [Feedback mechanism](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L17)
+* [Oscillations](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L19)
+* [Servo Jitters!](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L21)
 
 ### Introduction
 Servos are position control motors which are very precise, better servomotors are used in car steering, control surfaces of a plane, rudder of boats etc ... inexpensive servos are used in small scale robotics.
