@@ -1,6 +1,6 @@
 # Servos - Position control motors!
 ## Table of contents
-* [Introduction] (https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme#L9-L10)
+* Introduction
 * Working
 * Feedback mechanism
 * Oscillations
