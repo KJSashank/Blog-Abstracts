@@ -1,11 +1,9 @@
 # Servos - Position control motors!
 ## Table of contents
-* [Introduction](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L9)
-* [Working](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L11)
-* [Feedback mechanism](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L17)
-* [Oscillations](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L19)
-* [Servo Jitters!](https://github.com/KJSashank/Blog-Abstracts/blob/master/First%20Idea%20-%20Servos/Readme.md#L21)
-
+* Introduction
+* Feedback mechanism
+* Oscillations
+* Servo Jitters!
 ### Introduction
 Servos are position control motors which are very precise, better servomotors are used in car steering, control surfaces of a plane, rudder of boats etc ... inexpensive servos are used in small scale robotics.
 ### Working
