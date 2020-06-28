@@ -1,6 +1,7 @@
 # Servos - Position control motors!
 ## Table of contents
 * Introduction
+* Working
 * Feedback mechanism
 * Oscillations
 * Servo Jitters!
